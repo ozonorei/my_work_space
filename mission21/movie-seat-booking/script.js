@@ -13,7 +13,8 @@ function updateSelectedCount() {
 
     const selectedSeatsCount = selectedSeats.length;
 
-    console.log(selectedSeatsCount);
+    count.innerText = selectedSeatsCount;
+    total.innerText = selectedSeatsCount * titketPrice;
 }
 
 
