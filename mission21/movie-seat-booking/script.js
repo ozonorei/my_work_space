@@ -50,7 +50,7 @@ function populateUI() {
     const selectedMovieIndex = localStorage.getItem('selectedMovieIndex');
 
     if(selectedMovieIndex !== null) {
-        movieSelect.selectedMovieIndex = selectedMovieIndex;
+        movieSelect.selectedIndex = selectedMovieIndex;
         
     }
 }
