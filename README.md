@@ -6,4 +6,4 @@ mission21作品 ： http://ozonorei.github.io/my_work_space/mission21/movie-seat
 
 mission21筆記 ： https://hackmd.io/nmLV4xS3SouwgdMhs1I1kA?view 
 
-mission22作品 ： http://ozonorei.github.io/my_work_space/mission22/
+mission22作品 ： http://ozonorei.github.io/my_work_space/mission22/index.html
