@@ -10,7 +10,7 @@ mission23作品 ： http://ozonorei.github.io/my_work_space/mission23()/index.ht
 
 mission23筆記 ： https://hackmd.io/aGi2lGfURLy6VD4SQgq6Sw?view
 
-mission23作品 ： http://ozonorei.github.io/my_work_space/mission24/index.html
+mission24作品 ： http://ozonorei.github.io/my_work_space/mission24/index.html
 
-mission24筆記 ：
+mission24筆記 ： https://hackmd.io/L9uJs7h4Qs-f7d9ufkaInA?view
 
