@@ -13,7 +13,7 @@ const cover = document.getElementById('cover');
 const songs = ['酸っぱい自己嫌悪', 'あの夢をなぞって', 'Wilderness world', '『１・２・３』', '僕は僕を好きになる'];
 
 // Keep track of song titles
-let songIndex = 2;
+let songIndex = 0;
 
 // Initially load song details into DOM
 loadSong(songs[songIndex]);
@@ -72,7 +72,10 @@ function nextSong() {
 // Update progress bar
 function updateProgress(event) {
     const{ duration, currentTime } = event.srcElement;
-    const progressPercent = (currentTime / duration) * 100;
+    const progressPercent = (currentTime / duration ) * 100;
+    const ppercent = 100 - progressPercent
+    // console.log(ppercent);
+    // progress.style.width = `${ppercent}%`;
     progress.style.width = `${progressPercent}%`;    
 }
 
