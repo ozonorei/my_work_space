@@ -8,9 +8,8 @@ body {
     background-image: linear-gradient(
         -50deg,
         rgba(247, 247, 247, 1) 5%,
-        rgba(184, 211, 240, 1) ,
-        rgba(184, 167, 245, 1) ,
-        rgba(106, 191, 36, 1)90%
+        rgba(184, 211, 240, 1) 30%,
+        rgba(184, 167, 245, 1) 
     );
     height: 100vh;
     display: flex;
