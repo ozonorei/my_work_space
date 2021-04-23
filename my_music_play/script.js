@@ -13,7 +13,7 @@ const cover = document.getElementById('cover');
 const songs = ['酸っぱい自己嫌悪', 'あの夢をなぞって', 'Wilderness world', '『１・２・３』', '僕は僕を好きになる'];
 
 // Keep track of song titles
-let songIndex = 0;
+let songIndex = 2;
 
 // Initially load song details into DOM
 loadSong(songs[songIndex]);
@@ -24,6 +24,7 @@ function loadSong(song) {
     audio.src = `music/${song}.mp3`;
     cover.src = `images/${song}.jpg`;
 }
+
 // Play song
 function playSong() {
     musicContainer.classList.add('play');
@@ -57,7 +58,7 @@ function prevSong() {
 
 // Next song
 function nextSong() {
-    songIndex++
+    songIndex++;
 
     if(songIndex > songs.length - 1) {
         songIndex = 0;
