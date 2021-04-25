@@ -86,6 +86,8 @@ function setProgress(e) {
     const duration = audio.duration;
 
     audio.currentTime = (clickX / width) * duration;
+//      當前音樂的位置   ＝（點擊位置的長度/ 總長度）x 音樂的總區間
+//           125          =         94/216    x 289.xxxx
 }
 
 // Event listeners
