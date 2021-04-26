@@ -16,4 +16,10 @@ mission24筆記 ： https://hackmd.io/L9uJs7h4Qs-f7d9ufkaInA?view
 
 mission25作品 ： http://ozonorei.github.io/my_work_space/mission25/index.html
 
+mission25筆記 ： https://hackmd.io/U_8za08sTC29NjkIImPWqA
+
 my_music_player作品 ： http://ozonorei.github.io/my_work_space/my_music_play/index.html
+
+mission26作品 ： http://ozonorei.github.io/my_work_space/mission26/index.html
+
+mission26筆記 ： 
