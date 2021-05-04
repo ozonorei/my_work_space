@@ -48,13 +48,15 @@ function showLoading() {
 }
 // Filter posts by input 
 function filterPosts(event) {
+    // 輸入的文字轉換成大寫
     const term = event.target.value.toUpperCase();
     const posts = document.querySelectorAll('.post');
 
     posts.forEach(post => {
+        // 標題 跟 內文 轉換成大寫
         const title = post.querySelector('.post-title').innerText.toUpperCase();
         const body = post.querySelector('.post-body').innerText.toUpperCase();
-
+        // 標題 或 內文 索引的字元時，有參數且搜尋得到元素時，
         if(title.indexOf(term) > -1 || body.indexOf(term) > -1) {
             post.style.display = 'flex';
         } else {
