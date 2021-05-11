@@ -42,10 +42,14 @@ let score = 0;
 let time = 10;
 
 // Set difficulty to value in ls or medium
-let difficulty = localStorage.getItem('difficulty') !== null ? localStorage.getItem('difficulty') : 'medium';
+let difficulty = 
+    localStorage.getItem('difficulty') !== null 
+    ? localStorage.getItem('difficulty') : 'medium';
 
 // Set difficulty select value
-difficultySelect.value = localStorage.getItem('difficulty') !== null ? localStorage.getItem('difficulty') : 'medium';
+difficultySelect.value = 
+    localStorage.getItem('difficulty') !== null 
+    ? localStorage.getItem('difficulty') : 'medium';
 
 // Focus on text on start
 text.focus();

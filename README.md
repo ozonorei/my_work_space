@@ -26,4 +26,4 @@ mission26筆記 ： https://hackmd.io/-CcCW8uPRIi91O9Wa8ONFw?view
 
 mission27作品 ： http://ozonorei.github.io/my_work_space/mission27/index.html
 
-mission27筆記 ： 
+mission27筆記 ： https://hackmd.io/Ksle9CNZREC3b2yzNJIlCA?view
