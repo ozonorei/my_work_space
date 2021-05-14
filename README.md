@@ -27,3 +27,11 @@ mission26筆記：[blog](https://hackmd.io/-CcCW8uPRIi91O9Wa8ONFw?view)
 mission27作品：[打字遊戲](http://ozonorei.github.io/my_work_space/mission27/index.html)
 
 mission27筆記：[打字遊戲](https://hackmd.io/Ksle9CNZREC3b2yzNJIlCA?view)
+
+mission28作品：[用聲音猜數字](http://ozonorei.github.io/my_work_space/mission28/index.html)
+
+mission28筆記：[用聲音猜數字]()
+
+mission29作品：[新年倒數計時器](http://ozonorei.github.io/my_work_space/mission29/index.html)
+
+mission29筆記：[新年倒數計時器]()
