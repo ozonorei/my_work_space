@@ -35,3 +35,5 @@ mission28筆記：[用聲音猜數字]()
 mission29作品：[新年倒數計時器](http://ozonorei.github.io/my_work_space/mission29/index.html)
 
 mission29筆記：[新年倒數計時器]()
+
+nogizaka27: [27thシングル](http://ozonorei.github.io/my_work_space/nogizaka27/index.html)
