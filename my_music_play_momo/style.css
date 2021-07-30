@@ -29,7 +29,6 @@ body {
 @media (max-width: 290px) {
     body{
         background-size:268px 201px;
-        background-position: center 25%;
     }
 }
 
@@ -42,6 +41,13 @@ body {
     position: relative;
     margin: 100px 0;
     z-index: 10;
+}
+
+@media (max-width: 290px) {
+    .music-container {
+        position:absolute;
+        bottom: 0;
+    }
 }
 
 
