@@ -9,6 +9,7 @@ const progressContainer = document.getElementById('progress-container');
 const title = document.getElementById('title');
 const cover = document.getElementById('cover');
 
+audio.volume  = 0.7;
 // Song titles
 const songs = ['赤い糸', '変わらないもの','ふわふわ時間', 'ねがお', 'アンサー', '酸っぱい自己嫌悪','やさしさとは','ノーチラス', '酸っぱい自己嫌悪'];
 
@@ -30,7 +31,6 @@ function playSong() {
     musicContainer.classList.add('play');
     playBtn.querySelector('i.fas').classList.remove('fa-play');
     playBtn.querySelector('i.fas').classList.add('fa-pause');
-    audio.volume=0.6;
     audio.play();
 }
 
