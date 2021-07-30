@@ -29,6 +29,7 @@ body {
 @media (max-width: 290px) {
     body{
         background-size:268px 201px;
+        background-position: center 25%;
     }
 }
 
